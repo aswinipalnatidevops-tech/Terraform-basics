@@ -1,0 +1,7 @@
+vpc_cidr       = "10.100.0.0/16"
+vpc_name       = "dev-demo-vpc"
+igw_name       = "dev-demo-igw"
+subnet_1_cidr  = "10.100.1.0/24"
+subnet_1_name  = "Dev-Demo-Subnet-1"
+az_1           = "us-east-1a"
+Public_route_name = "Dev-Demo-Public-Route-Table"
